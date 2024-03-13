@@ -1,4 +1,4 @@
-<img src="![maps foto](https://github.com/zeynepcircir/google-maps-16/assets/81877446/38f3acc9-38c5-494a-b29c-af0c6b495bcb)" alt="Image 3" width="220">
+<img src="https://github.com/zeynepcircir/google-maps-16/assets/81877446/38f3acc9-38c5-494a-b29c-af0c6b495bcb" alt="Image 3" width="220">
 
 # GoogleMaps16
 
